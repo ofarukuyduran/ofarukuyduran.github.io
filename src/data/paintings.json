@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "position": [-9.9, 2, 0],
+    "rotation": [0, 1.5708, 0],
+    "month": "EKİM",
+    "activity": "Suyun Serüveni - Afiş Tasarımı",
+    "names": "Ahmet Y., Ayşe K."
+  },
+  {
+    "id": 2,
+    "position": [9.9, 2, 0],
+    "rotation": [0, -1.5708, 0],
+    "month": "KASIM",
+    "activity": "Doğadaki Su Kaynakları Fotoğraf Sergisi",
+    "names": "Burak E., Ceren F."
+  },
+  {
+    "id": 3,
+    "position": [0, 2, 9.9],
+    "rotation": [0, 3.14159, 0],
+    "month": "KASIM",
+    "activity": "Suyun Döngüsü Maketi",
+    "names": "Ali G., Zeynep T."
+  },
+  {
+    "id": 5,
+    "position": [-9.9, 2, -20],
+    "rotation": [0, 1.5708, 0],
+    "month": "ARALIK",
+    "activity": "Atık Suların Geri Dönüşümü Maketi",
+    "names": "Zeynep C., Can D."
+  },
+  {
+    "id": 6,
+    "position": [9.9, 2, -20],
+    "rotation": [0, -1.5708, 0],
+    "month": "OCAK",
+    "activity": "Doğa ve Su Temalı Şiir Dinletisi",
+    "names": "Elif S., Ozan Y."
+  },
+  {
+    "id": 7,
+    "position": [4.5, 2, -10.1],
+    "rotation": [0, 3.14159, 0],
+    "month": "OCAK",
+    "activity": "Su Ayak İzi Hesaplama Tablosu",
+    "names": "Kerem L., Işıl M."
+  },
+  {
+    "id": 8,
+    "position": [-4.5, 2, -29.9],
+    "rotation": [0, 0, 0],
+    "month": "ŞUBAT",
+    "activity": "Yağmur Suyu Hasadı Çizimleri",
+    "names": "Ali G., Deniz H."
+  },
+  {
+    "id": 9,
+    "position": [-9.9, 2, -40],
+    "rotation": [0, 1.5708, 0],
+    "month": "ŞUBAT",
+    "activity": "Suyun Geleceği Kompozisyon",
+    "names": "Tüm Sınıf"
+  },
+  {
+    "id": 10,
+    "position": [9.9, 2, -40],
+    "rotation": [0, -1.5708, 0],
+    "month": "MART",
+    "activity": "Dünya Su Günü Kutlaması Etkinlikleri",
+    "names": "Tüm Sınıf"
+  },
+  {
+    "id": 11,
+    "position": [-4.5, 2, -30.1],
+    "rotation": [0, 3.14159, 0],
+    "month": "MART",
+    "activity": "Okul Su Tasarrufu Kuralları Posteri",
+    "names": "Merve K., Berkay T."
+  },
+  {
+    "id": 12,
+    "position": [0, 2, -49.9],
+    "rotation": [0, 0, 0],
+    "month": "NİSAN",
+    "activity": "Proje Kapanış ve Değerlendirme Sergisi",
+    "names": "Tüm Katılımcılar"
+  }
+]
