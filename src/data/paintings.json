@@ -25,11 +25,19 @@
   },
   {
     "id": 5,
-    "position": [-9.9, 2, -20],
+    "position": [-9.9, 2, -15],
     "rotation": [0, 1.5708, 0],
     "month": "ARALIK",
     "activity": "Atık Suların Geri Dönüşümü Maketi",
     "names": "Zeynep C., Can D."
+  },
+  {
+    "id": 15,
+    "position": [-9.9, 2, -25],
+    "rotation": [0, 1.5708, 0],
+    "month": "ARALIK",
+    "activity": "Ekstra Görsel (2. Oda Sol)",
+    "names": "Tüm Sınıf"
   },
   {
     "id": 6,
@@ -57,19 +65,35 @@
   },
   {
     "id": 9,
-    "position": [-9.9, 2, -40],
+    "position": [-9.9, 2, -35],
     "rotation": [0, 1.5708, 0],
     "month": "ŞUBAT",
     "activity": "Suyun Geleceği Kompozisyon",
     "names": "Tüm Sınıf"
   },
   {
+    "id": 13,
+    "position": [-9.9, 2, -45],
+    "rotation": [0, 1.5708, 0],
+    "month": "MART",
+    "activity": "Yeni Görsel (Sol)",
+    "names": "Eklenen Öğrenciler"
+  },
+  {
     "id": 10,
-    "position": [9.9, 2, -40],
+    "position": [9.9, 2, -35],
     "rotation": [0, -1.5708, 0],
     "month": "MART",
     "activity": "Dünya Su Günü Kutlaması Etkinlikleri",
     "names": "Tüm Sınıf"
+  },
+  {
+    "id": 14,
+    "position": [9.9, 2, -45],
+    "rotation": [0, -1.5708, 0],
+    "month": "NİSAN",
+    "activity": "Yeni Görsel (Sağ)",
+    "names": "Eklenen Öğrenciler"
   },
   {
     "id": 11,
